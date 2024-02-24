@@ -1,0 +1,36 @@
+{
+    "repositoryName": "https://github.com/VinkovskyAS/GitFor1c",
+    "reositoryLocalName": "D:/Gits/GitFor1c",
+    "base": {
+        "v8Version": "8.3.17",
+         "Srvr": "",
+         "name": "D:/temp/base/base2",
+         "isFileBase": true,
+         "potr": "",
+         "login": "",
+         "pass": ""
+    },
+    "edt":{
+        "edtVersion": "edt@2023.2.0:x86_64",
+        "project": "D:/Gits/GitFor1c/Base1",
+        "brancheName": "PredRelease",
+        "configurationFiles": "D:/EDT/GitFor1c/configurationFiles",
+        "workspaceLocation": "D:/EDT/GitFor1c",
+        "edtLocation": "",
+        "fileCommitHistory": "D:/Gits/GitFor1c/Comits.txt",
+        "periodCommins": 24
+    },
+    "telegram":{
+        "token": "6b852788-cc29-430f-94c8-bf45852b08c4",
+        "server": "https://wh.tomato-pizza.ru",
+        "webhook": "/webhook/hs/tomatohook/TelegramSendToUser",
+        "Recipients":[
+            {
+                "id": "-1002136771163",
+                "message_thread_id": 876
+            }
+        ]
+
+    }
+    
+}
