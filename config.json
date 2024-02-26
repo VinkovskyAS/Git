@@ -21,9 +21,10 @@
         "periodCommins": 24
     },
     "telegram":{
-        "token": "6b852788-cc29-430f-94c8-bf45852b08c4",
-        "server": "https://wh.tomato-pizza.ru",
-        "webhook": "/webhook/hs/tomatohook/TelegramSendToUser",
+        "toSend": false,
+        "token": "",
+        "server": "",
+        "webhook": "",
         "Recipients":[
             {
                 "id": "-1002136771163",
