@@ -1,10 +1,10 @@
 {
-    "repositoryName": "",
-    "reositoryLocalName": "",
+    "repositoryName": "https://github.com/VinkovskyAS/GitFor1c",
+    "reositoryLocalName": "D:/Gits/GitFor1c",
     "base": {
         "v8Version": "8.3.17",
          "Srvr": "",
-         "name": "",
+         "name": "D:/temp/base/base2",
          "isFileBase": true,
          "potr": "",
          "login": "",
@@ -12,30 +12,30 @@
     },
     "edt":{
         "edtVersion": "edt@2023.2.0:x86_64",
-        "project": "",
-        "brancheName": "",
-        "configurationFiles": "",
-        "workspaceLocation": "",
+        "project": "D:/Gits/GitFor1c/Base1",
+        "brancheName": "PredRelease",
+        "configurationFiles": "D:/EDT/GitFor1c/configurationFiles",
+        "workspaceLocation": "D:/EDT/GitFor1c",
         "edtLocation": "",
-        "fileCommitHistory": "",
+        "fileCommitHistory": "D:/Gits/GitFor1c/Comits.txt",
         "periodCommins": 24
     },
     "telegram":{
         "toSend": false,
-        "token": "",
-        "server": "",
-        "webhook": "",
+        "token": "6b852788-cc29-430f-94c8-bf45852b08c4",
+        "server": "https://wh.tomato-pizza.ru",
+        "webhook": "/webhook/hs/tomatohook/TelegramSendToUser",
         "Recipients":[
             {
-                "id": "-",
-                "message_thread_id": 8
+                "id": "-1002136771163",
+                "message_thread_id": 876
             }
         ]
 
     },
     "youtrack":{
-        "server": "",
-        "token": "",
+        "server": "http://syt.tomato-pizza.ru/api",
+        "token": "perm:Vmlua292c2t5QVM=.NDktMQ==.UEqJLbrm0CC1b5j2N2ZAhl1GlRo44d",
         "projectNams":[
             {"shortName":"urv_zup_31","name":"УРВ.ЗУП_3.1"},
             {"shortName":"URV","name":"УРВ"}
