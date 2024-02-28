@@ -244,7 +244,7 @@
 
 	Соединение = Новый HTTPСоединение(Сервер, , , , , 100);
 	ТекстСообщения = "";
-	ТекстЗапросПроекты = "api/admin/projects?fields=id,name,shortName";
+	// ТекстЗапросПроекты = "api/admin/projects?fields=id,name,shortName";
 	ТекстЗапросаЗадачи = "api/issues?fields=$type,id,summary,customFields($type,id,projectCustomField($type,id,field($type,id,name)),value($type,avatarUrl,buildLink,color(id),fullName,id,isResolved,localizedName,login,minutes,name,presentation,text))&query=project:+%7Burv_zup_31%7D'";
 	Попытка
 
